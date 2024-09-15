@@ -3,11 +3,11 @@
 ## Overview  
 The Student Math Score Predictor is a web application built using Streamlit that predicts students' exam scores based on various factors. By inputting demographic information and previous scores, users can receive predictions for their prospective Math scores.  
 
-## Dataset and Model Training  
+## Dataset
 
 In this project, we utilize the dataset titled [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977) available on Kaggle. This dataset contains performance data from students across various subjects, which allows us to analyze factors that influence exam scores.  
 
-### Models Used  
+## Models Used  
 
 We have implemented several machine learning models to predict students' exam scores, including:  
 
@@ -25,7 +25,7 @@ We have implemented several machine learning models to predict students' exam sc
 
 In addition to these models, various other machine learning algorithms were considered to further enhance the prediction process.  
 
-### Hyperparameter Tuning  
+## Hyperparameter Tuning  
 
 - To achieve optimal performance from our models, hyperparameter tuning was performed using techniques such as Grid Search and Random Search. This process involved evaluating different combinations of hyperparameters, allowing us to identify the best settings for each model. By fine-tuning these parameters, we are able to enhance our models' accuracy and generalizability on unseen data.  
 
