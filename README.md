@@ -15,6 +15,9 @@ The Student Math Score Predictor is a web application built using Streamlit that
   - Writing Score  
 - Real-time predictions displayed after submission.
 
+## Deploying
+- End to End Machine Learning Project deployed website: https://alaindelong-end-to-end-machine-learning-project.hf.space/
+
 ## Usage
 1. Open the application in your web browser.
 2. Fill out the input form with the relevant student information.
