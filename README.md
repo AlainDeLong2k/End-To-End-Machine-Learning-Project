@@ -44,7 +44,7 @@ In addition to these models, various other machine learning algorithms were cons
 - Real-time predictions displayed after submission.
 
 ## Deploying
-- End to End Machine Learning Project deployed website: https://alaindelong-end-to-end-machine-learning-project.hf.space/
+- End to End Machine Learning Project deployed website: [Machine Learning Project](https://alaindelong-end-to-end-machine-learning-project.hf.space)
 
 ## Usage
 1. Open the application in your web browser.
